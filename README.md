@@ -1,10 +1,10 @@
-#Blinkit-Stores-Data-Analysis(Interactive Dynamic Dashboard creation using Power Bi)
+# Blinkit-Stores-Data-Analysis(Interactive Dynamic Dashboard creation using Power Bi)
 
-##Project Objective
+## Project Objective
 
 Identify patterns in product sales, including high-demand items, peak sales periods, size of store ,and underperforming products.  
 
-##Questions
+## Questions
 
 Ques1: Examine the overall revenue generated from all items sold.
 Ques2:Examine the Average revenue per Sale.
