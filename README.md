@@ -32,3 +32,6 @@ Identify patterns in product sales, including high-demand items, peak sales peri
 - Assess the geographic distribution of sales across different locations.(FUNNEL MAP)
 
 - Provide a comprehensive view of all key metrices(Total Sales, Average Sales, Number of items, Average Rating) broken down by different outlet types.(MATRIX CARD)
+
+
+- Dashboard Interaction <a href="https://github.com/vikas21-Tech/Blinkit-Sales-Analysis/blob/main/Blinkit%20dash.pdf">View Dashboard </a>
