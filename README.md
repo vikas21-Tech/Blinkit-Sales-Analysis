@@ -6,7 +6,7 @@ Identify patterns in product sales, including high-demand items, peak sales peri
 
 ## Dataset Used
 
-<a href="https://github.com/vikas21-Tech/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx"Dataset</a>
+- <a href="https://github.com/vikas21-Tech/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 
 
 
