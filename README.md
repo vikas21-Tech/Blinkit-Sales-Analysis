@@ -4,6 +4,12 @@
 
 Identify patterns in product sales, including high-demand items, peak sales periods, size of store ,and underperforming products.  
 
+## Dataset Used
+
+<a href="https://github.com/vikas21-Tech/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx"Dataset</a>
+
+
+
 ## Questions
 
 - Examine the overall revenue generated from all items sold.
